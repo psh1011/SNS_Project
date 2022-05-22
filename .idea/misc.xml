@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/SNS_Project/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
-        <entry key="..\:/SNS_Project/app/src/main/res/xml/network_security_config.xml" value="0.161231884057971" />
+        <entry key="..\:/MBTI/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/MBTI/app/src/main/res/layout/activity_sign_up.xml" value="0.11911231884057971" />
+        <entry key="..\:/MBTI/app/src/main/res/layout/sign_up.xml" value="0.274609375" />
       </map>
     </option>
   </component>

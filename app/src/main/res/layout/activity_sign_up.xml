@@ -60,5 +60,4 @@
             android:textSize="14sp"
             app:rippleColor="#FFFFFF" />
     </LinearLayout>
-
 </LinearLayout>
