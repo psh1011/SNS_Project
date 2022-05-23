@@ -36,7 +36,6 @@ public class SingUpActivity extends AppCompatActivity {
         }
     }
 
-
     View.OnClickListener onClickListener = new View.OnClickListener() {
         @Override
         public void onClick(View v) {
